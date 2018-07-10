@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[2]:
-
-
 #This code uses a lego database to find out how many lego pieces you have
 #In addition, it scrapes the original MSRP (in USD), and plots the cost per piece of your sets
 #Note, you need to download the database
